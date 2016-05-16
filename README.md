@@ -1,4 +1,3 @@
-
 # BadMedicine
 
 Mysterious
@@ -9,7 +8,7 @@ Mysterious
 
 ```
 git clone https://github.com/Jes/BadMedicine
-cd 
+cd
 npm install
 ```
 
@@ -32,3 +31,6 @@ npm test
 ```
 npm run deploy
 ```
+=======
+# react-the_first
+an amazing react app!
