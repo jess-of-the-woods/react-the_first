@@ -21,6 +21,5 @@ class CounterGreeter extends React.Component {
 
 render(
   <CounterGreeter name='Bad Medicine' age='87' />, document.querySelector('main')
-  // <CounterGreeter name='Hellish Medicine' age='87' />, document.querySelector('main')
 )
 // console.log('welcome to BadMedicine')
